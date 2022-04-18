@@ -100,7 +100,7 @@ section{
     font-size: 1.7em;
 }
 .info{
-    width: 80%;
+    width: 60%;
     margin: auto;
     color: #2B70E4;
     text-align: center;
@@ -120,6 +120,7 @@ section{
     align-items: center;
     background-color: rgba(43, 112, 228, 0.1);
     height: 30%;
+    text-align: center;
 }
 .card-offering {
     width: 25%;
